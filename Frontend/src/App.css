@@ -1,0 +1,169 @@
+ body {
+     font-family: "Poppins", sans-serif;
+ }
+
+ h2 {
+     font-family: "DM Serif Display", serif;
+ }
+
+ html {
+     scroll-behavior: smooth;
+ }
+
+ .border {
+     border: 0.01px solid black;
+     /* Adjust as needed */
+ }
+
+ .shadow {
+     /* box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; */
+     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+     /* Adjust as needed */
+     /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+ }
+
+ .contactme {
+     color: "#039be5";
+ }
+
+ .padding {
+     padding: 25px 60px 25px 60px;
+     ;
+
+ }
+.light-mode {
+    background-color: #fff;
+    color: #000;
+}
+
+.dark-mode {
+    background-color: #000;
+    color: #fff;
+}
+/* Tailwind's transition utilities
+.transition-colors {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.transition-transform {
+    transition: transform 0.3s ease;
+} */
+
+ /* input {
+     width: 100%;
+ }
+
+ .margin{
+    margin: 25px 160px 25px 160px;
+
+ }
+
+ .form {
+     margin: 25px 260px 25px 260px;
+
+ } */
+
+ .red {
+     color: red;
+ }
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ /* body {
+     @apply bg-white text-gray-800 dark:bg-gray-900 dark:text-gray-200;
+     font-family: "Poppins", sans-serif;
+     background-color: #ffffff;
+     color: #333333;
+ }
+
+ body.dark {
+     background-color: #1a202c;
+     color: #e2e8f0;
+ }
+
+ h2 {
+     font-family: "DM Serif Display", serif;
+ }
+
+ html {
+     scroll-behavior: smooth;
+ }
+
+ .bg-navbarColor {
+     background-color: #f8f9fa;
+ }
+
+ .bg-navbarColor.dark {
+     background-color: #2d3748;
+ }
+
+ .nav-items a {
+     color: #333;
+     text-decoration: none;
+ }
+
+ .nav-items a:hover {
+     color: #007bff;
+ }
+
+ .nav-items a.dark {
+     color: #e2e8f0;
+ }
+
+ .nav-items a.dark:hover {
+     color: #63b3ed;
+ } 
+
+ .border {
+     border: 0.01px solid black;
+ }
+
+ .border.dark {
+     border-color: #4a5568;
+ }
+
+ .shadow {
+     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+ }
+
+ .contactme {
+     color: #039be5;
+ }
+
+ .contactme.dark {
+     color: #63b3ed;
+ }
+
+ .padding {
+     padding: 25px 60px;
+ }
+
+ .red {
+     color: red;
+ } */
